@@ -74,9 +74,17 @@
 
 # WebXR
 
-> 사용자가 업로드한 실내 사진을 기반으로 다양한 인테리어 스타일로 공간을<br> 자동 재구성해주는 AI 기반 이미지 변환 모델
+> 웹 브라우저를 통해 가상 현실(VR) 및 증강 현실(AR) 경험을 제공하는 웹 표준 기술
 
-<img align="center" width="1000" alt="yolo" src="asset\roomgpt.png">
+<img align="center" width="300" alt="yolo" src="asset\ar.gif">
+
+<br><br>
+
+# ERD
+
+> 웹 브라우저를 통해 가상 현실(VR) 및 증강 현실(AR) 경험을 제공하는 웹 표준 기술
+
+<img align="center" width="1000" alt="yolo" src="asset\erd.png">
 
 <br><br>
 
@@ -100,7 +108,7 @@
            <img src="https://img.shields.io/badge/tanstackquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=black">
            <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
            <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-           <img src="https://img.shields.io/badge/chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+           <img src="https://img.shields.io/badge/WebXR-0A7EA4?style=for-the-badge&logo">
            <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
            <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
            <img src="https://img.shields.io/badge/zustand-F3DF49?style=for-the-badge&logo=zustand&logoColor=white">
