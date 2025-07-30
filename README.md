@@ -88,7 +88,7 @@
 
 <br><br>
 
-# 📊 ERD
+# 📊 MongoDB's Document
 
 <img align="center" width="1000" alt="erd" src="asset\erd.png">
 
