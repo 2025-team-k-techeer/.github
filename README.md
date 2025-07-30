@@ -1,8 +1,8 @@
 <div align="center">
 
-# ICON
+# ✨Introduction
 
-![아이콘](asset\icon.png)
+![아이콘](asset\icon_1.png)
 
 # 집 꾸
 
@@ -15,7 +15,7 @@
 
 <br><br>
 
-# 🎥 Demo
+# 🗣️ Demo
 
 | 메인 페이지, 사진 촬영                              | 스타일 선택, 요구사항 작성 페이지                     |
 | --------------------------------------------------- | ----------------------------------------------------- |
@@ -39,32 +39,38 @@
 
 <br><br>
 
-# 시스템 아키텍처(System Architecture)
+# 🛠 System Architecture
 
 <img align="center" width="1000" alt="yolo" src="asset\sys.png">
 
 <br><br>
 
-# YOLO(You Only Look Once)
+# 😎 YOLO(You Only Look Once)
 
 > 객체 감지를 한 번의 신경망 예측으로 수행하여 <br> 이미지 내의 여러 객체의 위치와 클래스를 동시에 빠르게 예측하는 모델
 
 <img align="center" width="1000" alt="yolo" src="asset\yoloF2.png">
-<img align="center" width="1000" alt="curve" src="asset\curve.png">
-<img align="result" width="1000" alt="result" src="asset\yolo_result.png">
+<br><br>
+
+> 훈련 및 검증 과정에서 모든 손실 지표(box, cls, dfl)가 안정적으로 수렴하는 것을 보여주며,<br> 이는 효과적인 학습과 일반화 성능을 나타냅니다.
+> <img align="center" width="1000" alt="curve" src="asset\curve.png"> <img align="result" width="1000" alt="result" src="asset\yolo_result.png">
 
 <br><br>
 
-# CLIP(Contrastive Language–Image Pretraining)
+# ⚡CLIP(Contrastive Language–Image Pretraining)
 
 > CLIP(Contrastive Language–Image Pretraining)은 이미지와 텍스트를 동시에 학습하여<br> 둘을 같은 임베딩 공간에 매핑하는 모델
 
-<img align="center" width="1000" alt="clip" src="asset\CLIP.png">
-<img align="center" width="1000" alt="clip_img" src="asset\clip_img.png">
+<img align="center" width="1000" alt="clip" src="asset\CLIP_img.png">
+<br><br>
+
+> t-SNE 시각화는 CLIP 모델이 학습한 이미지 임베딩 공간에서 유사한 의미를<br> 가진 객체들이 밀집된 군집을 형성함을 보여줍니다.
+
+<img align="center" width="1000" alt="clip_img" src="asset\clip.png">
 
 <br><br>
 
-# RoomGPT
+# 💡 RoomGPT
 
 > 사용자가 업로드한 실내 사진을 기반으로 다양한 인테리어 스타일로 공간을<br> 자동 재구성해주는 AI 기반 이미지 변환 모델
 
@@ -72,7 +78,7 @@
 
 <br><br>
 
-# WebXR
+# 🎮 WebXR
 
 > 웹 브라우저를 통해 가상 현실(VR) 및 증강 현실(AR) 경험을 제공하는 웹 표준 기술
 
@@ -80,28 +86,26 @@
 
 <br><br>
 
-# ERD
-
-> 웹 브라우저를 통해 가상 현실(VR) 및 증강 현실(AR) 경험을 제공하는 웹 표준 기술
+# 📊 ERD
 
 <img align="center" width="1000" alt="erd" src="asset\erd.png">
 
 <br><br>
 
-# API
+# 🔗 API
 
 <img align="center" width="1000" alt="api_1" src="asset\api_1.png">
 <img align="center" width="1000" alt="api_2" src="asset\api_2.png">
 
 <br><br>
 
-# 데어터 전처리 (Preprocessing)
+# ⚙️ Preprocessing
 
 <img align="center" width="1000" alt="Preprocessing" src="asset\Preprocessing.png">
 
 <br><br>
 
-## 🧑🏻‍💻 Monitoring
+# 💻 Monitoring
 
 <div align="center">
   <h3 align="left">Prometheus & Grafana</h3>
@@ -122,7 +126,7 @@
 </div>
 </br>
 
-# 💻 Tech Stack
+# 🧩 Tech Stack
 
 <div align="center">
   <table>
@@ -175,13 +179,14 @@
         <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+        <img src="https://img.shields.io/badge/Qdrant-FF4A4A?style=for-the-badge&logo=qdrant&logoColor=white">
       </td>
     </tr>
     <tr>
       <td><b>AI</b></td>
       <td>
         <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-        <img src="https://img.shields.io/badge/Replika-00BFFF?style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/Replicate-4A90E2?style=for-the-badge&logo=replicate&logoColor=white">
         <img src="https://img.shields.io/badge/Roboflow-FF6C37?style=for-the-badge&logo=roboflow&logoColor=white">
       </td>
     </tr>
