@@ -53,7 +53,8 @@
 <br><br>
 
 > 훈련 및 검증 과정에서 모든 손실 지표(box, cls, dfl)가 안정적으로 수렴하는 것을 보여주며,<br> 이는 효과적인 학습과 일반화 성능을 나타냅니다.
-> <img align="center" width="1000" alt="curve" src="asset\curve.png"> <img align="result" width="1000" alt="result" src="asset\yolo_result.png">
+
+<img align="center" width="1000" alt="curve" src="asset\curve.png"> <img align="result" width="1000" alt="result" src="asset\yolo_result.png">
 
 <br><br>
 
@@ -101,6 +102,8 @@
 
 # ⚙️ Preprocessing
 
+> 각 카테고리별로 필터링, 인코딩, 정규화 처리를 거쳐 데이터 전처리 과정에서 총 8,118개의 이미지가 7,100개로 축소되었으며,<br> 최종적으로 이미지 전처리 후 총 물품 개수는 2,633개입니다.
+
 <img align="center" width="1000" alt="Preprocessing" src="asset\Preprocessing.png">
 
 <br><br>
@@ -126,7 +129,7 @@
 </div>
 </br>
 
-# 🧩 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
   <table>
@@ -210,5 +213,45 @@
     </tr>
   </table>
 </div>
+
 <br>
+
+# 🧩 Team Members
+
+<table style="border-collapse:collapse;">
+  <tr>
+    <th style="border-bottom:1px solid #fff;">Name</th>
+    <th style="border-bottom:1px solid #fff;">정기홍</th>
+    <th style="border-bottom:1px solid #fff;">최재현</th>
+    <th style="border-bottom:1px solid #fff;">정주호</th>
+    <th style="border-bottom:1px solid #fff;">황민선</th>
+    <th style="border-bottom:1px solid #fff;">조은해</th>
+  </tr>
+  <tr>
+    <th style="border-bottom:1px solid #fff;">Profile</th>
+    <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #fff;"><img src="https://github.com/Jungkihong07.png" style="width:100px;height:100px;"></td>
+    <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #fff;"><img src="https://github.com/MacArthur17.png" style="width:100px;height:100px;"></td>
+    <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #fff;"><img src="https://github.com/jinks145.png" style="width:100px;height:100px;"></td>
+    <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #fff;"><img src="https://github.com/minseon0201.png" style="width:100px;height:100px;"></td>
+    <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #fff;"><img src="https://github.com/Eunhea411.png" style="width:100px;height:100px;"></td>
+  </tr>
+  <tr>
+    <th style="border-bottom:1px solid #fff;">Role</th>
+    <td style="border-bottom:1px solid #fff;">Leader, Backend,<br>Frontend, DevOps</td>
+    <td style="border-bottom:1px solid #fff;">Backend, DevOps</td>
+    <td style="border-bottom:1px solid #fff;">Backend, DevOps</td>
+    <td style="border-bottom:1px solid #fff;">Frontend</td>
+    <td style="border-bottom:1px solid #fff;">Frontend, Design</td>
+  </tr>
+  <tr>
+    <th style="border-bottom:1px solid #fff;">GitHub</th>
+    <td style="border-bottom:1px solid #fff;"><a href="https://github.com/Jungkihong07"><img src="https://img.shields.io/badge/Jungkihong07-green?style=social&logo=github"/></a></td>
+    <td style="border-bottom:1px solid #fff;"><a href="https://github.com/MacArthur17"><img src="https://img.shields.io/badge/MacArthur17-green?style=social&logo=github"/></a></td>
+    <td style="border-bottom:1px solid #fff;"><a href="https://github.com/jinks145"><img src="https://img.shields.io/badge/jinks145-green?style=social&logo=github"/></a></td>
+    <td style="border-bottom:1px solid #fff;"><a href="https://github.com/minseon0201"><img src="https://img.shields.io/badge/minseon0201-green?style=social&logo=github"/></a></td>
+    <td style="border-bottom:1px solid #fff;"><a href="https://github.com/Eunhea411"><img src="https://img.shields.io/badge/Eunhea411-green?style=social&logo=github"/></a></td>
+  </tr>
+</table>
+<br>
+
 </div>
