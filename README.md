@@ -2,7 +2,7 @@
 
 # ✨Introduction
 
-![아이콘](asset\icon_1.png)
+![아이콘](asset\icon.png)
 
 # 집 꾸
 
@@ -62,12 +62,12 @@
 
 > CLIP(Contrastive Language–Image Pretraining)은 이미지와 텍스트를 동시에 학습하여<br> 둘을 같은 임베딩 공간에 매핑하는 모델
 
-<img align="center" width="1000" alt="clip" src="asset\CLIP_img.png">
+<img align="center" width="1000" alt="clip" src="asset\clip_img.png">
 <br><br>
 
 > t-SNE 시각화는 CLIP 모델이 학습한 이미지 임베딩 공간에서 유사한 의미를<br> 가진 객체들이 밀집된 군집을 형성함을 보여줍니다.
 
-<img align="center" width="1000" alt="clip_img" src="asset\clip.png">
+<img align="center" width="1000" alt="clip_img" src="asset\CLIP.png">
 
 <br><br>
 
