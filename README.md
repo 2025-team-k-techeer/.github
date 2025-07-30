@@ -2,7 +2,7 @@
 
 # ✨Introduction
 
-![아이콘](asset\icon.png)
+![아이콘](asset/icon.png)
 
 # 집 꾸
 
