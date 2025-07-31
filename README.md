@@ -8,12 +8,12 @@
 
 </div>
 <div align="center">
-사진 한 장으로 내 방에 어울리는 가구를 바로 골라보고<br>
-배치까지 할 수 있는 앱입니다.
 
-
+### 사진 한 장으로 내 방에 어울리는 가구를 바로 골라보고<br> 배치까지 할 수 있는 앱입니다.
 
 <br><br>
+<br><br>
+
 Website: https://zipkku.shop/<br>
 Front: https://github.com/2025-team-k-techeer/frontend <br>
 Back: https://github.com/2025-team-k-techeer/team_k_backend<br>
@@ -24,11 +24,11 @@ Back: https://github.com/2025-team-k-techeer/team_k_backend<br>
 
 | 메인 페이지, 사진 촬영                              | 스타일 선택, 요구사항 작성 페이지                     |
 | --------------------------------------------------- | ----------------------------------------------------- |
-| <img width="300" alt="start" src="asset\start.gif"> | <img width="300" alt="choose" src="asset\choose.gif"> |
+| <img width="400" alt="start" src="asset\start.gif"> | <img width="400" alt="choose" src="asset\choose.gif"> |
 
 | 생성 이미지                                                 | AR기능                                        |
 | ----------------------------------------------------------- | --------------------------------------------- |
-| <img width="300" alt="generation" src="asset\generate.gif"> | <img alt="AR" src="asset\ar.gif" width="300"> |
+| <img width="400" alt="generation" src="asset\generate.gif"> | <img alt="AR" src="asset\ar.gif" width="400"> |
 
 <table>
   <tr>
