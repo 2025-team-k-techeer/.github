@@ -13,6 +13,7 @@
 사진 한 장으로 내 방에 어울리는 가구를 바로 골라보고<br>
 배치까지 할 수 있는 앱입니다.
 
+<br><br>
 
 Front: https://github.com/2025-team-k-techeer/frontend<br>
 Back: https://github.com/2025-team-k-techeer/team_k_backend
