@@ -36,9 +36,8 @@ Back: https://github.com/2025-team-k-techeer/team_k_backend<br>
   </tr>
   <tr>
     <td width="50%">
-      <img width="300" alt="big" src="asset/link.gif">
+      <img width="400" alt="big" src="asset/link.gif">
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
