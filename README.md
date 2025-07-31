@@ -13,6 +13,9 @@
 
 ---
 
+Front: https://github.com/2025-team-k-techeer/frontend
+Back: https://github.com/2025-team-k-techeer/team_k_backend
+
 <br><br>
 
 # 🗣️ Demo
