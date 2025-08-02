@@ -1,5 +1,7 @@
 <div align="center">
 
+### 🎊2025 Techeer Summer Bootcamp 3등🥉
+
 # ✨Introduction
 
 ![아이콘](asset/icon.png)
