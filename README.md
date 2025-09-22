@@ -17,8 +17,8 @@
 <br><br>
 
 Website: https://zipkku.shop/<br>
-Front: https://github.com/2025-team-k-techeer/frontend <br>
-Back: https://github.com/2025-team-k-techeer/team_k_backend<br>
+Front-end: https://github.com/2025-team-k-techeer/frontend <br>
+Back-end: https://github.com/2025-team-k-techeer/team_k_backend<br>
 
 <br><br>
 
