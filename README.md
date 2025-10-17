@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🎊2025 Techeer Summer Bootcamp 3등🥉
+### 🎊2025 Techeer Summer Bootcamp 우수상🥉
 
 # ✨Introduction
 
